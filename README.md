@@ -20,9 +20,9 @@ should also have flexible reporting features.
  Check Total Sale
  Container Status
  Exit TCVM
-httpsgithub.comsmanas33tcvmblobmasterUseCase3.png
+
 ### Use Case
-![tcvm use case](httpsgithub.comsmanas33tcvmblobmasterUseCase.png)
+![tcvm use case](https://github.com/smanas33/tcvm/blob/master/UseCase.png)
 
 ### Running The Application
 1. Download the zip by clicking on Clone or Download  Download as Zip.
