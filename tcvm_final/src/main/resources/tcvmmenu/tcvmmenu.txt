@@ -1,0 +1,14 @@
+************************************************************************
+***********           Tea-Coffee Vending Machine           *************
+************************************************************************
+
+Today's Menu
+1. Tea
+2. Black Tea
+3. Coffee
+4. Black Coffee
+5. Reset Container
+6. Check individual sale
+7. Check Total Sale
+8. Container status
+0. Exit
