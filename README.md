@@ -1,7 +1,7 @@
-# Tea-Coffee Vending Machine
+# Tea-Coffee Vending Machine 
 
 ### Problem Statement
-	Tea Coffee Vending machine is used for making tea and coffee. Now a day’s Tea-Coffee
+Tea Coffee Vending machine is used for making tea and coffee. Now a day’s Tea-Coffee
 vending machine is a common need of an organization refreshment stall, where one can
 easily serve different flavor of tea and coffee drink.
 br 
@@ -30,4 +30,4 @@ should also have flexible reporting features.
 3. Open Eclipse. Click on File  Import  Existing Maven Projects.
 4. Import the extracted folder.
 5. Go to TCVM.java in com.yash.tcvm_final.main package.
-6. Right Click on TCVM.java. Select Run as  Java Application.
+6. Right Click on TCVM.java and Select Run as  Java Application.
